@@ -1,7 +1,8 @@
 import 'package:flutter/material.dart';
+import 'package:selfie_verification/src/app.dart';
 
 void main() {
-  runApp(const MyApp());
+  runApp(const App());
 }
 
 class MyApp extends StatelessWidget {
